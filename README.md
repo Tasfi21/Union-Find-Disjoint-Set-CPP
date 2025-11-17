@@ -1,2 +1,15 @@
-# Union-Find-Disjoint-Set-CPP
-This repository contains an efficient implementation of the Disjoint Set Union (Union–Find) structure. Using path compression and union-by-rank, it supports fast merging and connectivity queries. Essential for Kruskal’s algorithm, clustering, and network connectivity problems.
+# Disjoint Set Union / Union–Find (C++)
+
+This repository includes an implementation of the **Disjoint Set Union (DSU)** structure, optimized using:
+- Path compression
+- Union by rank
+
+## Features
+- Fast union & find operations
+- Supports connectivity queries
+- Commonly used in MST and clustering algorithms
+
+## File
+- `disjoint.cpp`
+
+
